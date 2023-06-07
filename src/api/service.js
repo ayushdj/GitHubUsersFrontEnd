@@ -1,8 +1,8 @@
 import axios from 'axios';
 
 
-// const usernamesUrl = "http://127.0.0.1:5000/api/v1/users"
-const usernamesUrl = "https://g8dv38abqi.execute-api.us-west-2.amazonaws.com"
+const usernamesUrl = "http://127.0.0.1:5000/api/v1/users"
+// const usernamesUrl = "https://g8dv38abqi.execute-api.us-west-2.amazonaws.com"
 
 /**
  * This function makes a call to the api set up by the backend 
