@@ -2,4 +2,4 @@
 
 https://dainty-cocada-fdef08.netlify.app
 
-Front-end done in react.js, backend in Python Flask, deployed on Zeet.
+Front-end done in react.js, backend in Python Flask, deployed on AWS Lambda through Zeet.
